@@ -24,7 +24,7 @@ CoinVertex is a web application built with React for the frontend and PHP for th
 
 2. **Install Dependencies**:
    ```
-   cd crypto-tracker
+   cd client1
    npm install
    ```
 
